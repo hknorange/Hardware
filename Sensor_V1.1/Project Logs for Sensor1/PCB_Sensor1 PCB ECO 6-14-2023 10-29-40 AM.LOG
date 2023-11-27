@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=OUTPUT_SENSOR_1 Pin=P2-3
+Added Pin To Net: NetName=OUTPUT_SENSOR_1 Pin=R4-2
+Added Net: Name=OUTPUT_SENSOR_1
+Added Pin To Net: NetName=OUTPUT_SENSOR_2 Pin=JP4-3
+Added Pin To Net: NetName=OUTPUT_SENSOR_2 Pin=R5-2
+Added Net: Name=OUTPUT_SENSOR_2

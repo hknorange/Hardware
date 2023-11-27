@@ -1,0 +1,102 @@
+Removed Pin From Net: NetName=OUTPUT_SENSOR_1 Pin=P2-3
+Removed Pin From Net: NetName=OUTPUT_SENSOR_2 Pin=P3-3
+Removed Pin From Net: NetName=LORA_RESET Pin=U1-21
+Removed Pin From Net: NetName=LORA_DIO0 Pin=U1-22
+Change Component Footprint: Designator=P3 Old Footprint=691322310004 New Footprint=691322310003
+Change Component Comment : Designator=R3 Old Comment=33k New Comment=1K
+Change Component Comment : Designator=R6 Old Comment=33k New Comment=1K
+Change Component Comment : Designator=P3 Old Comment=691322310004 New Comment=691322310003
+Change Component Designator: OldDesignator= NewDesignator=L4
+Change Component Designator: OldDesignator=RST NewDesignator=SW1
+Change Component Designator: OldDesignator=SIG1 NewDesignator=L1
+Change Component Designator: OldDesignator=SIG2 NewDesignator=L2
+Change Managed Component Library Link : Designator=P3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=1547E14A-66E3-4B80-B1D1-888F442A7566 New ItemGUID=842A6778-4F7D-40F1-8CD7-1317F9355F25 Old RevisionGUID=BA8675A0-AF2A-4312-ABF4-B92E530EC8C9 New RevisionGUID=AED25E2A-D0E4-4948-B8EB-56809F77C5E1
+Change component parameters: Designator = "P3" ("P3"); Footprint = "691322310004"; UniqueID = "\JNZQBXGL" ("\JNZQBXGL")
+Change component parameters (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "3.81mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "10.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "NexarPartId"; Value = "8917778"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions Per Level"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "3.81mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "12.82mm"; VariantName = "[No Variations]"
+Added Component: Designator=JP3(JP 1x4 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Component: Designator=P4(691322310003)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "3.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "8917778"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Per Level"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "12.82mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+VMCU_3V3 Pin=JP3-1
+Added Pin To Net: NetName=GND Pin=JP3-2
+Added Pin To Net: NetName=OUTPUT_SENSOR_1 Pin=P3-3
+Added Pin To Net: NetName=POWER_ ADC Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=OUTPUT_SENSOR_2 Pin=P4-3
+Added Pin To Net: NetName=LORA_DIO0 Pin=U1-27
+Added Pin To Net: NetName=LORA_RESET Pin=U1-28
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(255, 110, 255) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=RGB(110, 255, 110)
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Added Pin To Net: NetName=BLUE_RX Pin=JP3-4
+Added Pin To Net: NetName=BLUE_RX Pin=U1-21
+Added Net: Name=BLUE_RX
+Added Pin To Net: NetName=BLUE_TX Pin=JP3-3
+Added Pin To Net: NetName=BLUE_TX Pin=U1-22
+Added Net: Name=BLUE_TX
+Added Pin To Net: NetName=FUEL_RX Pin=P2-3
+Added Pin To Net: NetName=FUEL_RX Pin=U1-12
+Added Net: Name=FUEL_RX
+Added Pin To Net: NetName=FUEL_TX Pin=P2-4
+Added Pin To Net: NetName=FUEL_TX Pin=U1-13
+Added Net: Name=FUEL_TX
+Added Member To Class: ClassName=[1]_STLU01 Member=Component JP3 JP 1x4 2.54
+Added Member To Class: ClassName=[2]_Power Member=Component L4 LED 3mm
+Added Member To Class: ClassName=[1]_STLU01 Member=Component P4 691322310003

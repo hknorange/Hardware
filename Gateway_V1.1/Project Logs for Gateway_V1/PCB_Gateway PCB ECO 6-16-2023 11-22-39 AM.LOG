@@ -1,0 +1,280 @@
+Removed Pin From Net: NetName=LORA_SS Pin=P1-29
+Removed Pin From Net: NetName=LORA_RESET Pin=P1-31
+Removed Pin From Net: NetName=LORA_DIO Pin=P1-33
+Added Component: Designator=C16(1206)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/tu-gom-1206-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "C1206"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAP_10_10)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/tu-nhom-smd-33uf-100v-10x10-5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "2900"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "OEM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "10x10.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "ALUM_33uF"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAP_10_10)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/tu-nhom-smd-33uf-100v-10x10-5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "2900"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "OEM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "10x10.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "ALUM_33uF"; VariantName = "[No Variations]"
+Added Component: Designator=C19(tu 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/tu-gom-0805-1uf-25v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004551"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 104-100nF 10% 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C20(2312)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/tu-tantalum-100uf-10v-2312-tajc107k010rnj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2312"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "TAJC107K010RNJ"; VariantName = "[No Variations]"
+Added Component: Designator=C21(C0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/tu-gom-0805-100nf-0-1uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "190"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samsung"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "C0805"; VariantName = "[No Variations]"
+Added Component: Designator=C22(2312)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/tu-tantalum-100uf-10v-2312-tajc107k010rnj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "2312"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "TAJC107K010RNJ"; VariantName = "[No Variations]"
+Added Component: Designator=C23(1210)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/tu-gom-1210-10uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "3400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "C1210"; VariantName = "[No Variations]"
+Added Component: Designator=C24(1210)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/tu-gom-1210-10uf-50v"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "3400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1210"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "C1210"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DO-SMB-2)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/ss54-smb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "1800"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "SS54"; VariantName = "[No Variations]"
+Added Component: Designator=D3(DO214AB_SMC)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/mbrs340t3-diode-schottky-4a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DO-214AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "SS14"; VariantName = "[No Variations]"
+Added Component: Designator=D4(SOD_80)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/rlz30b-diode-zener-27-70-29-13v-500mw-smd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-80 2L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "ZMM15"; VariantName = "[No Variations]"
+Added Component: Designator=D5(VISH-DO-214AC-2_L)
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://www.thegioiic.com/smaj28a-e3-61-tvs-diode-28v-45-4v-do214ac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "12/8/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID (uA)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IFSM"; Value = "40 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Junction and Storage Temperature Range"; Value = "-55 to 150 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin DO-214AC (SMA), Body 4.245 x 2.665 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-214AC-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SMAJ28A-E3/61"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PPPM (W)"; Value = "400, 300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VBR Uni-Directional (V)"; Value = "6.4 to 231"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VWM (V)"; Value = "28"; VariantName = "[No Variations]"
+Added Component: Designator=F1(1812)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/mf-msmf150-24x-2-cau-chi-tu-phuc-hoi-1812-24v-1-5a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "1812"; VariantName = "[No Variations]"
+Added Component: Designator=L4(IND-12_12_8)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/cdrh127-cuon-cam-dan-smd-1280-330-33uh-4-2a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "3200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "OEM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1280"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "CDRH127"; VariantName = "[No Variations]"
+Added Component: Designator=L5(FER-0805 (2012))
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/fbmh2012hm800-t-ferrite-bead-80-ohm-0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Taiyo Yuden"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "FBMH2012HM800-T"; VariantName = "[No Variations]"
+Added Component: Designator=P2(691322310002)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://katalog.we-online.de/em/datasheet/6913223100xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40to105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "691322310002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "691322310002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.81mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Added Component: Designator=R30(R1206)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-3-3-kohm-1206-1-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "116"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "OEM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "R1206"; VariantName = "[No Variations]"
+Added Component: Designator=R31(tro smd 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-100-kohm-0805-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005247"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 5% 20k"; VariantName = "[No Variations]"
+Added Component: Designator=R32(R0805)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-2-kohm-0805-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "OEM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "R0805"; VariantName = "[No Variations]"
+Added Component: Designator=R33(tro smd 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/dien-tro-43-kohm-0805-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005320"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 5% 47k"; VariantName = "[No Variations]"
+Added Component: Designator=U6(TO-263-5)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Link product"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.thegioiic.com/xl4015e1-ic-dieu-chinh-giam-ap-5a-to-263-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Cost"; Value = "16000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XLSEMI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part number"; Value = "XL4015E1"; VariantName = "[No Variations]"
+Added Component: Designator=U7(FP-C04-012-MFG)
+Add component (AddParameter): Name = "Accuracy Percentage"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "New link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.thegioiic.com/mic29302-ic-dieu-chinh-dien-ap-3a"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Power Management ICs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "Voltage Regulators - Linear"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "IC REG LINEAR POS ADJ 3A TO263-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "370mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.2inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MIC29302WU-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Junction Temp"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "26V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "2.25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "LDO Voltage Regulators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "10-37mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/mic29302wu-tr-microchip-66801318"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "AdjustableProgrammable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "3.3-12V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C04-012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standoff Height"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C23-1
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=LORA_SS Pin=P1-11
+Added Pin To Net: NetName=LORA_RESET Pin=P1-13
+Added Pin To Net: NetName=LORA_DIO Pin=P1-15
+Added Pin To Net: NetName=GND Pin=P2-2
+Added Pin To Net: NetName=GND Pin=R32-1
+Added Pin To Net: NetName=GND Pin=R33-1
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=GND Pin=U7-3
+Added Pin To Net: NetName=GND Pin=U7-6
+Change Net Name : Old Net Name=+5 New Net Name=+5VDC
+Added Pin To Net: NetName=+5 Pin=C18-1
+Added Pin To Net: NetName=+5 Pin=C19-1
+Added Pin To Net: NetName=+5 Pin=C20-1
+Added Pin To Net: NetName=+5 Pin=L4-2
+Added Pin To Net: NetName=+5 Pin=R30-1
+Added Pin To Net: NetName=+5 Pin=U7-2
+Added Net: Name=+5
+Added Pin To Net: NetName=+24 Pin=F1-1
+Added Pin To Net: NetName=+24 Pin=P2-1
+Added Net: Name=+24
+Added Pin To Net: NetName=+VGMS Pin=L5-2
+Added Net: Name=+VGMS
+Added Pin To Net: NetName=+VIN_24 Pin=C16-2
+Added Pin To Net: NetName=+VIN_24 Pin=C17-1
+Added Pin To Net: NetName=+VIN_24 Pin=C23-2
+Added Pin To Net: NetName=+VIN_24 Pin=C24-2
+Added Pin To Net: NetName=+VIN_24 Pin=D3-2
+Added Pin To Net: NetName=+VIN_24 Pin=U6-4
+Added Pin To Net: NetName=+VIN_24 Pin=U6-5
+Added Net: Name=+VIN_24
+Added Pin To Net: NetName=ADJ Pin=R31-1
+Added Pin To Net: NetName=ADJ Pin=R33-2
+Added Pin To Net: NetName=ADJ Pin=U7-5
+Added Net: Name=ADJ
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=L4-1
+Added Pin To Net: NetName=NetD2_2 Pin=U6-3
+Added Pin To Net: NetName=NetD2_2 Pin=U6-3
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=D4-2
+Added Pin To Net: NetName=NetD3_1 Pin=D5-1
+Added Pin To Net: NetName=NetD3_1 Pin=F1-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetR30_2 Pin=R30-2
+Added Pin To Net: NetName=NetR30_2 Pin=R32-2
+Added Pin To Net: NetName=NetR30_2 Pin=U6-2
+Added Net: Name=NetR30_2
+Added Pin To Net: NetName=OUT Pin=C21-2
+Added Pin To Net: NetName=OUT Pin=C22-1
+Added Pin To Net: NetName=OUT Pin=L5-1
+Added Pin To Net: NetName=OUT Pin=R31-2
+Added Pin To Net: NetName=OUT Pin=U7-4
+Added Net: Name=OUT
+Added Class: Name=[1]_Power
+Added Room: Name=[1]_Power
+Added Room: Name=[2]_ARM
+Added Room: Name=[3]_I2C_TO_UART

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=LORA_DIO0 Pin=U1-27
+Removed Pin From Net: NetName=LORA_RESET Pin=U1-28
+Added Pin To Net: NetName=LORA_RESET Pin=U1-27
+Added Pin To Net: NetName=LORA_DIO0 Pin=U1-28
+Added Room: Name=[1]_STLU01
+Added Room: Name=[2]_Power

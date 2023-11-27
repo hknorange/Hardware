@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=+24 Pin=P1-2
+Change Component Comment : Designator=P1 Old Comment=691322310002 New Comment=KF-3.81-2-R
+Added Pin To Net: NetName=+24 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2

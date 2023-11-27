@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MS_RST Pin=U8-1
+Removed Pin From Net: NetName=VMSIM Pin=U8-6
+Added Pin To Net: NetName=VMSIM Pin=U8-1
+Added Pin To Net: NetName=MS_RST Pin=U8-6

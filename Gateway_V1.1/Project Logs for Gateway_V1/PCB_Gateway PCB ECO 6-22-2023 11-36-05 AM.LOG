@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GPS_V_BCKP Pin=BT1-1
+Removed Pin From Net: NetName=GND Pin=BT1-2
+Removed Member From Class: ClassName=[2]_ARM Member=BT1
+Added Component: Designator=BAT1(MS412FE)
+Added Pin To Net: NetName=GND Pin=BAT1-N
+Added Pin To Net: NetName=GPS_V_BCKP Pin=BAT1-P
+Added Member To Class: ClassName=[2]_ARM Member=Component BAT1 BAT_MS412FE

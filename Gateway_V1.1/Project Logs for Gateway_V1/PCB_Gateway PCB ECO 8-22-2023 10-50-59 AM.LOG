@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=LORA_ANTEN Pin=R39-1
+Removed Pin From Net: NetName=GND Pin=R40-1
+Removed Pin From Net: NetName=GND Pin=R41-1
+Removed Pin From Net: NetName=LORA_ANTEN Pin=R41-2
+Removed Member From Class: ClassName=[2]_ARM Member=R39
+Removed Member From Class: ClassName=[2]_ARM Member=R40
+Removed Member From Class: ClassName=[2]_ARM Member=R41
+Added Pin To Net: NetName=LORA_ANTEN Pin=J2-1

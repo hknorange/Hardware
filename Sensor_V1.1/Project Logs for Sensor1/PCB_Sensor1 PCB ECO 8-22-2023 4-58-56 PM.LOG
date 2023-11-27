@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=RX Pin=JP2-1
+Removed Pin From Net: NetName=TX Pin=JP2-2
+Change Component Footprint: Designator=P4 Old Footprint=691322310003 New Footprint=691322310003
+Added Pin To Net: NetName=TX Pin=JP2-1
+Added Pin To Net: NetName=RX Pin=JP2-2
+Added Room: Name=[1]_STLU01
+Added Room: Name=[2]_Power

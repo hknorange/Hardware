@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=MS_CLK Pin=R5-2
+Removed Pin From Net: NetName=MS_CLK Pin=R7-2
+Removed Pin From Net: NetName=MS_CLK Pin=U3-C2
+Removed Pin From Net: NetName=MS_CLK Pin=U3-C7
+Removed Pin From Net: NetName=MS_CLK Pin=U8-1
+Removed Pin From Net: NetName=MS_CLK Pin=U8-3
+Added Pin To Net: NetName=MS_IO Pin=R7-2
+Added Pin To Net: NetName=MS_IO Pin=U3-C7
+Added Pin To Net: NetName=MS_IO Pin=U8-3
+Added Net: Name=MS_IO
+Added Pin To Net: NetName=MS_RST Pin=R5-2
+Added Pin To Net: NetName=MS_RST Pin=U3-C2
+Added Pin To Net: NetName=MS_RST Pin=U8-1
+Added Net: Name=MS_RST

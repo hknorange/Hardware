@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB_Sensor1.PcbDoc   8/23/2023  9:08:33 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB_Sensor1.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      8mil (0.201mm)                                            Round             8         PTH        0.00inch (0.00mm)
+T2      15mil (0.381mm)                                           Round             80        PTH        0.00inch (0.00mm)
+T3      20mil (0.5mm)                                             Round             32        PTH        0.00inch (0.00mm)
+T4      40mil (1.016mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T5      43mil (1.1mm)                                             Round             10        PTH        0.00inch (0.00mm)
+T6      55mil (1.4mm)                                             Round             12        PTH        0.00inch (0.00mm)
+T7      79mil (1.999mm)                                           Round             4         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              152
+
+Total Processing Time (hh:mm:ss) : 00:00:00
